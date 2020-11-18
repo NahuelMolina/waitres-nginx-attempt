@@ -1,0 +1,15 @@
+2020/09/24 20:25:12 [error] 4500#6772: *1 CreateFile() "D:\nginx\nginx-1.19.2/html/favicon.ico" failed (2: El sistema no puede encontrar el archivo especificado), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/09/24 20:27:49 [error] 8188#7124: *3 CreateFile() "D:\nginx\nginx-1.19.2/html/favicon.ico" failed (2: El sistema no puede encontrar el archivo especificado), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080//"
+2020/11/13 00:20:30 [notice] 3340#2692: signal process started
+2020/11/13 00:40:59 [error] 2668#5392: *3 CreateFile() "D:\nginx\nginx-1.19.2/html/favicon.ico" failed (2: El sistema no puede encontrar el archivo especificado), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080//"
+2020/11/13 01:03:58 [notice] 3464#6592: signal process started
+2020/11/18 01:03:53 [notice] 7408#6860: signal process started
+2020/11/18 01:10:58 [emerg] 2144#7544: "server" directive is not allowed here in D:\python-backend\newProject/conf/nginx.conf:2
+2020/11/18 01:11:29 [emerg] 2972#2324: no "events" section in configuration
+2020/11/18 01:14:03 [notice] 3136#2020: signal process started
+2020/11/18 01:16:21 [notice] 3796#7424: signal process started
+2020/11/18 01:19:17 [emerg] 2332#7792: duplicate location "/" in D:\python-backend\newProject/conf/nginx.conf:29
+2020/11/18 01:19:35 [emerg] 7648#6416: duplicate location "/" in D:\python-backend\newProject/conf/nginx.conf:29
+2020/11/18 01:19:53 [notice] 6536#8088: signal process started
+2020/11/18 01:20:29 [notice] 856#7888: signal process started
+2020/11/18 01:22:25 [notice] 6496#6756: signal process started
