@@ -13,3 +13,20 @@
 2020/11/18 01:19:53 [notice] 6536#8088: signal process started
 2020/11/18 01:20:29 [notice] 856#7888: signal process started
 2020/11/18 01:22:25 [notice] 6496#6756: signal process started
+2020/11/18 16:40:58 [emerg] 740#5088: unexpected "}" in D:\python-backend\newProject/conf/nginx.conf:31
+2020/11/18 16:41:19 [emerg] 2384#4480: CreateDirectory() "D:\python-backend\newProject/temp/client_body_temp" failed (3: El sistema no puede encontrar la ruta especificada)
+2020/11/18 16:44:47 [notice] 2184#5608: signal process started
+2020/11/18 16:46:43 [notice] 1888#3192: signal process started
+2020/11/18 17:11:40 [notice] 984#6036: signal process started
+2020/11/18 17:11:40 [alert] 6120#4352: CloseHandle(0000018C) failed (6: Controlador no válido)
+2020/11/18 17:11:47 [notice] 2772#5828: signal process started
+2020/11/18 17:11:47 [error] 2772#5828: CreateFile() "D:\python-backend\newProject/logs/nginx.pid" failed (2: El sistema no puede encontrar el archivo especificado)
+2020/11/18 17:12:07 [notice] 2288#2176: signal process started
+2020/11/18 17:12:07 [error] 2288#2176: CreateFile() "D:\python-backend\newProject/logs/nginx.pid" failed (2: El sistema no puede encontrar el archivo especificado)
+2020/11/18 17:13:10 [error] 1768#3172: *1 connect() failed (10061: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:8080/", host: "localhost:8000"
+2020/11/18 17:13:11 [error] 1768#3172: *1 connect() failed (10061: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "localhost:8000"
+2020/11/18 17:16:44 [notice] 6116#3456: signal process started
+2020/11/18 17:19:17 [notice] 1284#5940: signal process started
+2020/11/18 17:22:10 [error] 3840#5516: *10 connect() failed (10061: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión) while connecting to upstream, client: 192.168.0.102, server: 192.168.0.102, request: "GET /initial/ HTTP/1.1", upstream: "http://127.0.0.1:8080/initial/", host: "192.168.0.102:8000"
+2020/11/18 17:22:11 [error] 3840#5516: *10 connect() failed (10061: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión) while connecting to upstream, client: 192.168.0.102, server: 192.168.0.102, request: "GET /initial/ HTTP/1.1", upstream: "http://[::1]:8080/initial/", host: "192.168.0.102:8000"
+2020/11/18 18:13:48 [notice] 2832#700: signal process started

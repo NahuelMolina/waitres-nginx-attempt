@@ -3,4 +3,4 @@ import pdb
 
 def hello(request):
 
-	return HttpResponse('Hola')
+	return HttpResponse('Hola, world')
